@@ -4,7 +4,7 @@
 💻 Desenvolvedor Web em formação | HTML · CSS · JavaScript  
 📚 Cursando Técnico em Informática para Internet  
 🎓 Ex-aluno de Engenharia de Software (Anhanguera)  
-🗣️ Trilíngue: Português · Espanhol · Inglês (em desenvolvimento)
+Português · Espanhol · Inglês (em desenvolvimento)
 
 ---
 
